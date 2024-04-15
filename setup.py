@@ -3,13 +3,13 @@ from setuptools import setup
 setup(
     author='User',
     author_email='example@mail.com',
-    name='teaxyz',
+    name='reactionxd',
     version='0.0.1',
     description='A simple package for https://app.tea.xyz/. Example tea-xyz1 - https://github.com/madest92/tea-xyz1 and tea-xyz2 - https://github.com/madest92/tea-xyz2',
-    url='https://github.com/madest92/teaxyz',
+    url='https://github.com/ReaLys158/reactionxd',
     project_urls={
-        'Homepage': 'https://github.com/madest92/teaxyz',
-        'Source': 'https://github.com/madest92/teaxyz',
+        'Homepage': 'https://github.com/ReaLys158/reactionxd',
+        'Source': 'https://github.com/ReaLys158/reactionxd',
     },
     py_modules=['hi_tea'],
     entry_points={
